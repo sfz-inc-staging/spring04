@@ -1,5 +1,5 @@
 # spring04
-my new project
+my new project for spring things
 
 Based on seed project `spring-team:spring-rest-seed`
 
